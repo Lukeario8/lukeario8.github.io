@@ -1,0 +1,44 @@
+
+Milestone 1 – Establish the foundation
+
+Create your HTML files.
+
+Create your CSS file.
+
+Set up the navigation bar.
+
+Make sure all four pages link to each other.
+
+Milestone 2 – Build the homepage
+
+Add your introduction.
+
+Choose your colours and fonts.
+
+Add a profile picture if desired.
+
+Milestone 3 – Fill out your content
+
+Write your bio.
+
+Add your projects.
+
+Add contact information.
+
+Milestone 4 – Polish the design
+
+Make the website mobile-friendly.
+
+Check spacing and alignment.
+
+Add hover effects and subtle transitions.
+
+Test all links.
+
+Milestone 5 – Publish
+
+Push everything to GitHub.
+
+Configure GitHub Pages to deploy from your main branch and repository root.
+
+Visit your published website and test it.
